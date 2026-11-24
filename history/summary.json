@@ -4,36 +4,40 @@
     "url": "https://kadetech.online",
     "icon": "https://icons.duckduckgo.com/ip3/kadetech.online.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1047,
-    "timeDay": 769,
-    "timeWeek": 1073,
-    "timeMonth": 1047,
-    "timeYear": 1047,
-    "dailyMinutesDown": {}
+    "time": 1008,
+    "timeDay": 654,
+    "timeWeek": 1047,
+    "timeMonth": 1008,
+    "timeYear": 1008,
+    "dailyMinutesDown": {
+      "2026-11-24": 1
+    }
   },
   {
     "name": "POS app",
     "url": "https://kadetech.online/pos",
     "icon": "https://icons.duckduckgo.com/ip3/kadetech.online.ico",
     "slug": "pos-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1097,
-    "timeDay": 221,
-    "timeWeek": 1053,
-    "timeMonth": 1097,
-    "timeYear": 1097,
-    "dailyMinutesDown": {}
+    "time": 1046,
+    "timeDay": 329,
+    "timeWeek": 891,
+    "timeMonth": 1046,
+    "timeYear": 1046,
+    "dailyMinutesDown": {
+      "2026-11-24": 0
+    }
   },
   {
     "name": "API",
@@ -48,7 +52,7 @@
     "uptimeYear": "100.00%",
     "time": 358,
     "timeDay": 145,
-    "timeWeek": 327,
+    "timeWeek": 313,
     "timeMonth": 358,
     "timeYear": 358,
     "dailyMinutesDown": {}
@@ -66,7 +70,7 @@
     "uptimeYear": "100.00%",
     "time": 586,
     "timeDay": 272,
-    "timeWeek": 610,
+    "timeWeek": 609,
     "timeMonth": 586,
     "timeYear": 586,
     "dailyMinutesDown": {}
